@@ -3,9 +3,9 @@
 
 def print_names():
     names = ['John MacCormick',
-             'fake student 1',
-             'fake instructor 1',
-             'fake student 2', 'Aaron Stern']
+             'Aaron Stern',
+             'Christian Gonzalez', 
+             ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
     for name in sorted_names:
