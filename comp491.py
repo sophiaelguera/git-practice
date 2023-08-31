@@ -2,10 +2,9 @@
 # of members of COMP491
 
 def print_names():
-    names = ['John MacCormick',
-             'fake student 1',
-             'fake instructor 1',
-             'fake student 2']
+    names = ['Christian Gonzalez', 
+             'John MacCormick',
+             ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
     for name in sorted_names:
