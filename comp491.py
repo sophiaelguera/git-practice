@@ -4,7 +4,8 @@
 def print_names():
     names = ['John MacCormick',
              'Aaron Stern',
-             'Christian Gonzalez', 
+             'Christian Gonzalez',
+             'Marcel Lee',
              ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
