@@ -6,6 +6,8 @@ def print_names():
              'Aaron Stern',
              'Christian Gonzalez', 
              'William Cheng'
+             'Marcel Lee',
+             'Hailie Mitchell',
              ]
     print('Here are COMP491 members in alphabetical order:')
     sorted_names = sorted(names)
