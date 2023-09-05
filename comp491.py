@@ -4,7 +4,8 @@
 def print_names():
     names = ['John MacCormick',
              'Aaron Stern',
-             'Christian Gonzalez', 
+             'Christian Gonzalez',
+             'Marcel Lee',
              'Hailie Mitchell',
              ]
     print('Here are COMP491 members in alphabetical order:')
