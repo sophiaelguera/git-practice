@@ -4,7 +4,8 @@
 def print_names():
     names = ['John MacCormick',
              'Aaron Stern',
-             'Christian Gonzalez',
+             'Christian Gonzalez', 
+             'William Cheng'
              'Marcel Lee',
              'Hailie Mitchell',
              ]
